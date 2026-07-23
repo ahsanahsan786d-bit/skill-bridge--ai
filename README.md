@@ -185,11 +185,8 @@ AI-powered job matching platform.
 ### 1. Home Page
 ![Home Page](home.jpeg)
 
-### 2. AI Match
-![AI Match](aimatch.jpeg)
-
-### 3. Chat
+### 2. Chat
 ![Chat](chat.jpeg)
 
-### 4. Worker Profile
+### 3. Worker Profile
 ![Worker](worker.jpeg)
