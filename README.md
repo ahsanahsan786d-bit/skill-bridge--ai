@@ -176,3 +176,20 @@
 > ## 🎯 Vision Statement
 >
 > **SkillBridge AI is more than just a freelancing platform. It is Pakistan's vision for an AI-powered digital workforce where Artificial Intelligence, secure payments, verified skills, smart hiring, and trusted opportunities come together to empower millions of skilled professionals across the country.**
+# SkillBridge AI
+
+AI-powered job matching platform.
+
+## Screenshots
+
+### 1. Home Page
+![Home Page](home.jpeg)
+
+### 2. AI Match
+![AI Match](aimatch.jpeg)
+
+### 3. Chat
+![Chat](chat.jpeg)
+
+### 4. Worker Profile
+![Worker](worker.jpeg)
