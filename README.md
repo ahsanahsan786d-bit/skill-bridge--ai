@@ -7,7 +7,7 @@
 >
 > 🌐 **Live Website:** **https://skillbridge-ai-by-ahsan.vercel.app**
 >
-> 💻 **GitHub Repository:** **https://github.com/ahsanahsan786d-bit/skillbridge-ai**
+> 💻 **GitHub Repository:** **https://github.com/ahsanahsan786d-bit/skill-bridge--ai/tree/main**
 >
 > ---
 >
