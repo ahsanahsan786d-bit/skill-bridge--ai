@@ -1,0 +1,6 @@
+{
+  "name": "SkillBridge AI",
+  "description": "Turn Skills into Opportunities. AI-powered job matching, worker profile generation, and job description writing tailored for Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
